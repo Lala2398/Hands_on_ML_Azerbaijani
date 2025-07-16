@@ -61,3 +61,5 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün repo`ya contribute edə bilərsiniz! 
 
 Project started from 20.11.2023 
+
+[Book in English version](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Aur%C3%A9lien%20G%C3%A9ron%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems-O'Reilly%20Media%20(2022)%20(1).pdf)
