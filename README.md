@@ -47,11 +47,11 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 8:** Ləman Cəfərli
 - **Fəsil 9:** Nubar Asgarlı
 - **Fəsil 10:** Nubar Asgarlı
-- **Fəsil 11:** Nihad Həşimov
+- **Fəsil 11:** (Free)
 - **Fəsil 12:** Şamil Mehdiyev
 - **Fəsil 13:** Lalə İbadullayeva
 - **Fəsil 14:** Sitarə Ağayeva
-- **Fəsil 15:** (Free)
+- **Fəsil 15:** Sevinc Rəhimova
 - **Fəsil 16:** (Free)
 - **Fəsil 17:** (Free)
 - **Fəsil 18:** (Free)
