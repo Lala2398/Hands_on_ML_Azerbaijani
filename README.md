@@ -14,7 +14,7 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 7:** Sabuhi Abbasov
 - [**Chapter 8:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf) | without review
 - **Chapter 9:** Nubar Asgarli
-- **Chapter 10:** Nubar Asgarli
+- **Chapter 10:** (Free)
 - **Chapter 11:** (Free)
 - **Chapter 12:** Shamil Mehdiyev
 - [**Chapter 13:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2013.pdf) | without review
@@ -45,8 +45,8 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 6:** Ləman Cəfərli + 
 - **Fəsil 7:** Səbuhi Abbasov
 - **Fəsil 8:** Ləman Cəfərli +
-- **Fəsil 9:** Nubar Asgarlı
-- **Fəsil 10:** Nubar Asgarlı
+- **Fəsil 9:** Nubar Asgarli
+- **Fəsil 10:** (Free)
 - **Fəsil 11:** (Free)
 - **Fəsil 12:** Şamil Mehdiyev
 - **Fəsil 13:** Lalə İbadullayeva +
