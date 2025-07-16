@@ -19,7 +19,7 @@ The book offers practical insights into machine learning with hands-on examples 
 - **Chapter 12:** Shamil Mehdiyev
 - [**Chapter 13:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2013.pdf) | without review
 - **Chapter 14:** Sitara Aghayeva
-- **Chapter 15:** (Free)
+- **Chapter 15:** Sevinj Rahimova
 - **Chapter 16:** (Free)
 - **Chapter 17:** (Free)
 - **Chapter 18:** (Free)
