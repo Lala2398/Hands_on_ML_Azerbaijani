@@ -37,26 +37,26 @@ Bu, *Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow* kitabı
 Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməsi haqqında praktik anlayışlar və tətbiqi nümunələr təklif edir. Bizim məqsədimiz bu bilikləri Azərbaycanda və daha geniş ərazidəki istifadəcilərə, praktikantlara və tədqiqatçılara çatdırmaq idi.
 
 ### Töhfə Verənlər:
-- **Fəsil 1:** Lalə İbadullayeva
+- **Fəsil 1:** Lalə İbadullayeva + 
 - **Fəsil 2:** Sitarə Ağayeva
 - **Fəsil 3:** Nihad Həşimov
-- **Fəsil 4:** Şamil Mehdiyev
-- **Fəsil 5:** Leyla Eminova
-- **Fəsil 6:** Ləman Cəfərli
+- **Fəsil 4:** Şamil Mehdiyev +
+- **Fəsil 5:** Leyla Eminova +
+- **Fəsil 6:** Ləman Cəfərli + 
 - **Fəsil 7:** Səbuhi Abbasov
-- **Fəsil 8:** Ləman Cəfərli
+- **Fəsil 8:** Ləman Cəfərli +
 - **Fəsil 9:** Nubar Asgarlı
 - **Fəsil 10:** Nubar Asgarlı
 - **Fəsil 11:** (Free)
 - **Fəsil 12:** Şamil Mehdiyev
-- **Fəsil 13:** Lalə İbadullayeva
+- **Fəsil 13:** Lalə İbadullayeva +
 - **Fəsil 14:** Sitarə Ağayeva
 - **Fəsil 15:** Sevinc Rəhimova
 - **Fəsil 16:** (Free)
 - **Fəsil 17:** (Free)
 - **Fəsil 18:** (Free)
-- **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
-- **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov
+- **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov + 
+- **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov +
 
 Komandamız tərcümənin düzgünlüyü və aydınlığını təmin etmək üçün çox çalışıb. Ümid edirik ki, bu təşəbbüs maşın öyrənməsi yolunda sizə kömək edəcək. Hər hansı bir səhv və ya təkmilləşdirmə üçün repo`ya contribute edə bilərsiniz! 
 
