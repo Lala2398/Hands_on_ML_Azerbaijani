@@ -15,7 +15,7 @@ The book offers practical insights into machine learning with hands-on examples 
 - [**Chapter 8:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf) | without review
 - **Chapter 9:** Nubar Asgarli
 - **Chapter 10:** Nubar Asgarli
-- **Chapter 11:** Nihad Hashimov
+- **Chapter 11:** (Free)
 - **Chapter 12:** Shamil Mehdiyev
 - [**Chapter 13:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2013.pdf) | without review
 - **Chapter 14:** Sitara Aghayeva
