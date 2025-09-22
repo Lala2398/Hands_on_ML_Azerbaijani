@@ -22,7 +22,7 @@ The book offers practical insights into machine learning with hands-on examples 
 - [**Chapter 15:** Sevinj Rahimova](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Hands%20on%20machine%20learning%20-%20Chapter%2015.pdf) | without review     
 - **Chapter 16:** Hacar Dovlatova
 - **Chapter 17:** Toghrul Aliyev
-- **Chapter 18:** (Free)
+- **Chapter 18:** Bayram Bayramov
 - [**Chapter 19:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
 - [**Introduction:** Ibrahim Nizami oğlu | Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Introduction.pdf)
 
@@ -54,7 +54,7 @@ Kitab, məşhur Python kitabxanalarından istifadə edərək maşın öyrənməs
 - **Fəsil 15:** Sevinc Rəhimova +
 - **Fəsil 16:** Həcər Dövlətova
 - **Fəsil 17:** Toğrul Əliyev
-- **Fəsil 18:** (Free)
+- **Fəsil 18:** Bayram Bayramov
 - **Fəsil 19:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov + 
 - **Giriş:** İbrahim Nizami oğlu | Rəy: Nihad Həşimov +
 
