@@ -34,5 +34,3 @@ This repository is created for educational purposes under fair use. It does not 
 * **Chapter 18 notes:** Bayram Bayramov
 * **Chapter 19 notes:** Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov
 * **Introduction summary:** Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov
-
-İstəyirsən, mən sənə reponun **README.md faylını hazır, copy-paste ediləcək formada** verim?
