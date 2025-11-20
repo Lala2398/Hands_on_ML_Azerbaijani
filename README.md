@@ -15,7 +15,7 @@ This repository is created for educational purposes under fair use. It does not 
 ### Contributors:
 * [**Chapter 1 notes:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
 * **Chapter 2 notes:** Sitara Aghayeva
-* **Chapter 3 notes:** Nihad Hashimov
+* [**Chapter 3 notes:** Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%203.pdf)
 * [**Chapter 4 notes:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
 * [**Chapter 5 notes:** Leyla Eminova](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%205.pdf)
 * [**Chapter 6 notes:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
