@@ -33,3 +33,5 @@ This repository is created for educational purposes under fair use. It does not 
 * **Chapter 18 notes:** Bayram Bayramov
 * [**Chapter 19 notes:** Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
 * [**Introduction summary:** Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Introduction.pdf)
+
+This project was started at 20th November 2023. And still is ongoing
