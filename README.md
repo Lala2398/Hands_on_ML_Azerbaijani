@@ -26,7 +26,7 @@ This repository is created for educational purposes under fair use. It does not 
 * **Chapter 11 notes:** Shabnam Rahimova
 * **Chapter 12 notes:** Shamil Mehdiyev
 * [**Chapter 13 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2013.pdf)
-* **Chapter 14 notes:** **Free**
+* [**Chapter 14 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_14_CNN.docx.pdf)
 * [**Chapter 15 notes:** Sevinj Rahimova](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Hands%20on%20machine%20learning%20-%20Chapter%2015.pdf)
 * **Chapter 16 notes:** Hacar Dovlatova
 * **Chapter 17 notes:** Toghrul Aliyev
