@@ -12,6 +12,8 @@ Our goal is to support Azerbaijani-speaking learners, practitioners, and researc
 📌 **Fair Use Disclaimer**:
 This repository is created for educational purposes under fair use. It does not reproduce or distribute the original book. To access the complete book, please purchase it from [O’Reilly Media](https://www.oreilly.com) or authorized sellers.
 
+[Main Github address for the Book](https://github.com/ageron/handson-ml3)
+
 ### Contributors:
 * [**Chapter 1 notes:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
 * **Chapter 2 notes:** Sitara Aghayeva
