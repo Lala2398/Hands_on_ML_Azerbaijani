@@ -28,7 +28,7 @@ This repository is created for educational purposes under fair use. It does not 
 * [**Chapter 6 notes:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
 * **Chapter 7 notes:** Ongoing
 * [**Chapter 8 notes:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf)
-* **Chapter 9 notes:** FREE
+* [**Chapter 9 notes:**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter__9.pdf)
 * [**Chapter 10 notes:** Ulviyya İsmayilzada](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2010.pdf)
 * **Chapter 11 notes:** FREE
 * **Chapter 12 notes:** FREE
