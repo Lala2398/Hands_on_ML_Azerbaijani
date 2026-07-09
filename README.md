@@ -7,7 +7,7 @@ This repository **does not contain the full translation of the book**. Instead, 
 * 💡 Explanations and study notes from our community members
 * 💻 Annotated code examples with Azerbaijani comments
 
-**📖 Note : **
+📖 Note : 
 
 To respect the author's copyright and O'Reilly's publishing rights, some chapters intentionally do **not** include every figure, illustration, or image from the original book. The primary goal of this repository is to provide Azerbaijani learning notes and summaries that help readers understand the concepts as quickly and effectively as possible.
 If you would like to gain a complete understanding of the material, we strongly encourage you to purchase the original book from O'Reilly or an authorized retailer and read it alongside these notes.
