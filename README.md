@@ -7,6 +7,10 @@ This repository **does not contain the full translation of the book**. Instead, 
 * 💡 Explanations and study notes from our community members
 * 💻 Annotated code examples with Azerbaijani comments
 
+**📖 Note**
+To respect the author's copyright and O'Reilly's publishing rights, some chapters intentionally do **not** include every figure, illustration, or image from the original book. The primary goal of this repository is to provide Azerbaijani learning notes and summaries that help readers understand the concepts as quickly and effectively as possible.
+If you would like to gain a complete understanding of the material, we strongly encourage you to purchase the original book from O'Reilly or an authorized retailer and read it alongside these notes.
+
 Our goal is to support Azerbaijani-speaking learners, practitioners, and researchers by making the concepts of the book more accessible in their native language, while respecting the author’s copyright and O’Reilly’s publishing rights.
 
 📌 **Fair Use Disclaimer**:
@@ -15,8 +19,8 @@ This repository is created for educational purposes under fair use. It does not 
 [Main Github address for the Book](https://github.com/ageron/handson-ml3)
 
 ### Contributors:
-* [**Chapter 1 notes:** Lala İbadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
-* **Chapter 2 notes:** Ongoing
+* [**Chapter 1 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%201.pdf)
+* [**Chapter 2 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_02_AZ.pdf) 
 * [**Chapter 3 notes:** Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%203.pdf)
 * [**Chapter 4 notes:** Şamil Mehdiyev](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_4.pdf)
 * [**Chapter 5 notes:** Leyla Eminova](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%205.pdf)
