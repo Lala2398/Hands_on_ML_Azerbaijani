@@ -41,4 +41,8 @@ This repository is created for educational purposes under fair use. It does not 
 * [**Chapter 19 notes: Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
 * [**Introduction summary: Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Introduction.pdf)
 
-This project was started at 20th November 2023. And still is ongoing
+**This project was started in November 2023 and was successfully completed in July 2026.**
+
+Throughout its development, our team changed many times. While many contributors joined us along the way, only a few remained committed until the very end. We sincerely thank everyone who supported this project and are especially grateful to those who stayed with us throughout the entire journey. Your contributions made this achievement possible. 
+
+If you would like to contribute to this repository in the future, you're always welcome! Since this is a public repository, feel free to open an issue, submit a pull request, or contribute directly. Every contribution is appreciated. 😊
