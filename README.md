@@ -28,14 +28,14 @@ This repository is created for educational purposes under fair use. It does not 
 * [**Chapter 6 notes:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_6.pdf)
 * **Chapter 7 notes:** Ongoing
 * [**Chapter 8 notes:** Laman Jafarli](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%208.pdf)
-* [**Chapter 9 notes:**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter__9.pdf)
+* [**Chapter 9 notes**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter__9.pdf)
 * [**Chapter 10 notes:** Ulviyya İsmayilzada](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2010.pdf)
-* [**Chapter 11 notes:**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_11.pdf)
-* [**Chapter 12 notes:**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_12.pdf)
+* [**Chapter 11 notes**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_11.pdf)
+* [**Chapter 12 notes**](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_12.pdf)
 * [**Chapter 13 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2013.pdf)
 * [**Chapter 14 notes:** Lala Ibadullayeva](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_14_CNN.docx.pdf)
 * [**Chapter 15 notes:** Sevinj Rahimova](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Hands%20on%20machine%20learning%20-%20Chapter%2015.pdf)
-* **Chapter 16 notes:** Ongoing
+* [**Chapter 16 notes** ](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter_16.pdf)
 * **Chapter 17 notes:** Ongoing
 * **Chapter 18 notes:** Ongoing
 * [**Chapter 19 notes:** Ibrahim Nizami oğlu | 1st Review: Nihad Hashimov](https://github.com/Lala2398/Hands_on_ML_Azerbaijani/blob/main/Chapter%2019.pdf)
