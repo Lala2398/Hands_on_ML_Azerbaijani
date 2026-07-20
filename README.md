@@ -45,6 +45,21 @@ This repository is **not a full translation of the book**. Instead, it provides:
 
 ---
 
+## 📚 EPUB edition
+
+All chapters above are also available combined into a single e-book: [`epub/Hands-on-ML-Azerbaijani.epub`](epub/Hands-on-ML-Azerbaijani.epub).
+
+It's built with [`scripts/build_epub.py`](scripts/build_epub.py), which reads this README's chapter table for the order/titles/authors and converts each PDF in `chapters/` into a proper reflowable chapter (text + images), so it isn't just the PDFs glued together. Whenever a chapter PDF is added or replaced, regenerate it:
+
+```bash
+pip install -r scripts/requirements.txt
+python3 scripts/build_epub.py
+```
+
+This always rebuilds the whole EPUB from scratch, so it's safe to re-run any time.
+
+---
+
 ## 🕐 Project history
 
 Started in **November 2023**, completed in **July 2026**. The team changed several times along the way — many people contributed, some for a single chapter, others across the whole project. Thank you to everyone who took part, and especially to those who stayed until the end.

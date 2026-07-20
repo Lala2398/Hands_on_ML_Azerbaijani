@@ -1,0 +1,3 @@
+# Dependencies for scripts/build_epub.py
+PyMuPDF>=1.24
+EbookLib>=0.18
